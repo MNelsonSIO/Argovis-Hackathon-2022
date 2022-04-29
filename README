@@ -1,0 +1,30 @@
+Argovis Hackathon 2022
+
+Group 2, subgroup 2: slices of gridded products
+
+Co-Leads: Monica Nelson and Danielle Lafarga (Python proficient)
+
+Group members:
+Ivana Escobar (Python proficient)
+Samuel Mogen (Python proficient)
+Weiqing Han
+
+
+Objective: Creating 2D slices of the ocean state from 2D/3D gridded fields (see demo notebook for gridded products)
+
+Data:
+Roemmich and Gilson product for temperature
+Kuusela and Giglio OHC product (maybe)
+
+Subgroup 2
+Maps/movies of gridded fields
+E.g. near-surface temperature anomaly to show marine heat wave hot spots
+Spatial and temporal average in a region
+Regional seasonal cycles 
+
+
+(Subgroup 1
+Slices along longitude, latitude, depth, or any section and time (interpolating)
+Argo profiles versus gridded products)
+
+
